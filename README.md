@@ -8,6 +8,9 @@ This project demonstrates a complete Azure Data Engineering solution built using
 
 ## Architecture
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ea043340-b433-43b0-9d8e-c4fb2fc70d50" />
+
+
 **Source Systems**
 
 * GitHub Repository
