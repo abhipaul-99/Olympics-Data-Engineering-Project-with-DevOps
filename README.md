@@ -100,3 +100,12 @@ Paris Olympics 2024 Dataset:
 
 Abhishek Paul
 Azure Data Engineer | Databricks | PySpark | Azure Data Factory
+
+## Acknowledgements
+
+This project was inspired by and implemented by following the Azure Data Engineering Project series created by Ansh Lamba. The series provided valuable guidance on building an end-to-end data engineering solution using Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Delta Live Tables, Azure Synapse Analytics, Power BI, and Azure DevOps.
+
+The implementation in this repository was recreated as a hands-on learning exercise to strengthen practical understanding of modern Azure data engineering concepts, Medallion Architecture, CI/CD practices, and data pipeline orchestration.
+
+Special thanks to Ansh Lamba for creating and sharing high-quality educational content that helped make this project possible.
+
